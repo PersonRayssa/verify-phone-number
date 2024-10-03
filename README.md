@@ -1,2 +1,3 @@
 # verify-phone-number
-Verifica se é um número de telefone do respectivo país do arquivo, com a estrutura if e else.
+br_phone_number.ipynb: Verifica se é um número de telefone do Brasil, com a estrutura if e else.
+phone_number_re.ipynb: Verifica se é um número de telefone do Brasil, com a biblioteca re.
